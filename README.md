@@ -135,5 +135,5 @@ Dashboard available at: http://localhost:8501
 
 ## 👩‍💻 Author
 
-Angelikia Kavuansiko — MSc Computer Science & Data Science, ESILV Paris (2025–2027)  
-ETL & Pipeline Orchestration — Prof. Murali Krishna MOPIDEVI
+Angelikia Kavuansiko - MSc Computer Science & Data Science, ESILV Paris (2025–2027)  
+ETL & Pipeline Orchestration - Prof. Murali Krishna MOPIDEVI
